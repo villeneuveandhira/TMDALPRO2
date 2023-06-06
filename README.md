@@ -44,18 +44,24 @@ Tampilan awal program:<br />
 <br />
 misalkan tampilan awal sebagai berikut:<br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/0d8ee3ec-cbad-4f6f-bea0-e13762f50405)
+
 misal<br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/227b91ed-bfbb-433e-8bf7-8e12ceb26afb)
+
 lalu menunggu masukan query<br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/495e3b59-1e7e-4927-8bf8-54b555a99bd9)
+
 menunggu masukan lagi sebagai pita.<br />
 Contoh-contoh query berikutnya:<br />
 Jika data yang akan dioperasikan sesuai query belum ada<br /><br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/e2298925-1b75-4eb0-9497-5130195a8701)
+
 Jika data yang akan dioperasikan ada<br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/13d21669-bbae-4c2a-a9db-c5b8d27889a5)
+
 Jika data yang akan dioperasikan ada<br />
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/6d0c64de-3779-4f6d-be18-03efb251d766)
+
 
 3. TAMPIL dengan query TAMPIL NamaTabel.<br />
 Misal query nya sebagai berikut:<br />
