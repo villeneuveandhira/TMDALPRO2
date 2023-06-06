@@ -42,7 +42,8 @@ masukan nilai ada 3, dst)
 <br />
 Tampilan awal program:<br />
 <br />
-misalkan tampilan awal sebagai berikut:<br />
+misalkan tampilan awal sebagai berikut:<br 
+                                           
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/0d8ee3ec-cbad-4f6f-bea0-e13762f50405)
 
 misal<br />
