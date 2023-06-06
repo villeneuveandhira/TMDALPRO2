@@ -66,6 +66,7 @@ Jika data yang akan dioperasikan ada<br />
 
 3. TAMPIL dengan query TAMPIL NamaTabel.<br />
 Misal query nya sebagai berikut:<br />
+<br />
 TAMPIL tmahasiswa.
 <br />
 query merupakan pita mesin kata. Jadi pemrosesannya menggunakan mesin kata<br />
