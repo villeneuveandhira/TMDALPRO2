@@ -71,6 +71,7 @@ TAMPIL tmahasiswa.
 query merupakan pita mesin kata. Jadi pemrosesannya menggunakan mesin kata<br />
 untuk memahami maksud query. Dari query di atas maka tampilkan isi tabel<br />
 dalam arsip beruntun. Misal sebagai berikut:<br />
+
 ![image](https://github.com/villeneuveandhira/TMDALPRO2/assets/101118033/4490f64b-7046-4164-be04-b2d3d402435a)
 
 menunggu masukan lagi sebagai pita.<br />
